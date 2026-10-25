@@ -1,22 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/getmug/.github/main/profile/assets/mug.png" alt="mug app icon" width="96" height="96">
-</p>
+<a href="https://getmug.dev"><img src="https://raw.githubusercontent.com/getmug/.github/main/profile/assets/banner.png" alt="mug — Your agents forget. mug doesn’t." width="100%"></a>
 
-<h1 align="center">mug</h1>
-<p align="center"><strong>Turn what you learn into how you build.</strong></p>
+**mug** turns what you teach your agents into patterns they reuse in every session.
 
-A useful article. A clever snippet. A pattern you want to use again.
+- **Learns from your agent chats.** The fixes and decisions you work out with Claude Code and Codex become patterns.
+- **Reads the posts and articles you save.** Save one with a shortcut and mug pulls out what's worth reusing.
+- **Turns your notes into patterns.** Write it down once; every agent picks it up, in any project.
 
-We're building **mug**, a local-first macOS app that turns useful links and notes into reviewed coding patterns, so good ideas can find their way into your next project.
+A macOS app for Claude Code and Codex, in active development. **[Join the waitlist →](https://getmug.dev)**
 
-### Capture → Review → Reuse
-
-- **Capture the useful stuff.** Save links, write a note, or drop in images and documents from a floating window.
-- **Make it actionable.** AI turns your sources into summaries and proposed patterns, with evidence you can review. You decide what belongs in your library.
-- **Build with what you know.** Our next step is bringing approved knowledge into Codex and Claude Code, with project-level controls over when guidance is suggested or applied.
-
-### Your library, on your Mac
-
-Saved sources and approved patterns live locally. Cloud AI handles source analysis; agent integrations and local semantic retrieval are in development.
-
-**Currently in active development for macOS.**
+[getmug.dev](https://getmug.dev) · [@getmugdev](https://x.com/getmugdev)
