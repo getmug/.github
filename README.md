@@ -2,4 +2,4 @@
 
 Public organization profile for [mug](https://github.com/getmug).
 
-Profile copy lives in [`profile/README.md`](profile/README.md). This repository contains organization branding, not the application source.
+Profile copy lives in [`profile/README.md`](profile/README.md). This repository contains organization branding (`profile/assets`), not the application source.
